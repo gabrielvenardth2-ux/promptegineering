@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Engineering Studio",
+  "description": "Interactive prompt engineering laboratory and learning workspace for students and researchers to master structured AI prompt design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
